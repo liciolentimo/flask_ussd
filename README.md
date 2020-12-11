@@ -19,5 +19,9 @@ Simple ussd application built with Flask, Africa's Talking, Heroku and Docker
 - On your callback, get the URL from your Heroku app and add it as your callback URL.
 - Launch the simulator
 
+## Stargazers over time
+
+[![Stargazers over time](https://starchart.cc/liciolentimo/flask_ussd.svg)](https://starchart.cc/liciolentimo/flask_ussd)
+
 ## Resources
 Refer to this blog [post](https://anthonylimo.hashnode.dev/build-and-deploy-a-ussd-application-with-africas-talking-docker-and-heroku-python-part-1-ck09qewl9000sc2s1n12d2zqa) for further references.
